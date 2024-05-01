@@ -21,7 +21,7 @@
  Inspire-se consultando os exemplos na pasta [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community), confira alguns utilitários na pasta [`utils`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/utils) e use sua criatividade para criar o seu 😊💙.
 
 ### 1) Faça um **Fork** deste Repositório
-Acesse a página principal do repositório e clique no botão "Fork" no canto superior direito da página.
+Acesse a página principal do repositório e clique no botão "Fork" no canto superior direito da página..
 > [!NOTE]  
 > Um "fork" no GitHub é uma cópia de um repositório que pode ser criada por qualquer usuário. <br>
 > Para mais detalhes, reveja a aula ou acesse a documentação do GitHub: [Criar fork de um repositório](https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo).
@@ -87,6 +87,7 @@ Após criar o seu Pull Request, nossa automação irá validar a sua submissão.
 | `style`        | Realiza mudanças na aparência, sem alterar a funcionalidade.         | `style: add EFFECTNAME to COMPONENT`
 | `refactor`     | Realiza mudanças no código que não alteram a funcionalidade.         | `refactor: refactor at CLASSNAME`
 | `test`         | Adiciona ou modifica testes no projeto.                              | `test: add unit test for UserService`
+| `ram`          | Indicam mudanças relacionadas a arquivos de configurações.
 
 
 ## Referências
